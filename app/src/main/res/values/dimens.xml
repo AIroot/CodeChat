@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--Default screen margins, per the Android design guide-->
+    <dimen name="horiz_marg">16dp</dimen>
+    <dimen name="vert_marg">16dp</dimen>
+</resources>
